@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* **[MainWindow.xaml](./CS/DXTabControlExample/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/DXTabControlExample/MainWindow.xaml))**
+<!-- default file list end -->
 # How to Change Tab Background in DXTabControl and Keep the Default Highlight Effects
 
 
